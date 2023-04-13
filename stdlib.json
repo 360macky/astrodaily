@@ -1,0 +1,11 @@
+{
+  "name": "macky360/astrodaily",
+  "timeout": 10000,
+  "connector": true,
+  "env": [
+    {
+      "name": "NASA_API_KEY",
+      "description": "Free NASA API Key from api.nasa.gov"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "astrodaily",
+  "author": "Marcelo Arias - 360macky",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
