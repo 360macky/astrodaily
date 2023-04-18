@@ -8,6 +8,10 @@ ChatGPT plugin that gives you images from the NASA Image Library.
 
 - 🧑‍💻 [HackerNews Thread of this ChatGPT Plugin](https://news.ycombinator.com/item?id=35554859)
 
+## ⬇️ Installation
+
+Currently the API of astrodaily for ChatGPT is available with: `api.360macky.com`.
+
 ## 🚀 Concept
 
 Astrodaily is a plugin for [ChatGPT](https://chat.openai.com) that gives you images
